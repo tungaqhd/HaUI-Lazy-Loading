@@ -1,0 +1,11 @@
+body {
+    min-width: 300px;
+    padding: 20px;
+}
+.logo {
+    margin: 10px;
+    max-width: 200px;
+}
+.credit {
+    font-size: 10px;
+}
